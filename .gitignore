@@ -1,0 +1,24 @@
+# Environment variables with secrets
+.env
+
+# Generated model files
+ai_model.pkl
+scaler.pkl
+feature_cols.pkl
+feature_importance.png
+
+# Log files
+XAUUSD_AI_Log.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
